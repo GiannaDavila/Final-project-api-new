@@ -1,25 +1,5 @@
 {
-  "name": "final-project-api-new",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GiannaDavila/Final-project-api-new.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GiannaDavila/Final-project-api-new/issues"
-  },
-  "homepage": "https://github.com/GiannaDavila/Final-project-api-new#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "mongodb": "^4.12.1"
+    "firebase-functions": "^4.1.0"
   }
 }
